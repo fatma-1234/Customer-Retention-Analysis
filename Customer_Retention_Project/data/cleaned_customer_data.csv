@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,Tenure_Months,MonthlyCharges,Churn,HighCharges,CustomerAgeGroup
+C1,Female,48,9,701,No,No,Middle
+C2,Female,21,3,1003,No,Yes,Young
+C3,Male,45,15,737,No,Yes,Middle
+C4,Female,30,3,1049,Yes,Yes,Middle
+C5,Female,35,30,688,Yes,No,Middle
+C6,Male,20,33,628,Yes,No,Young
+C7,Male,46,5,886,Yes,Yes,Middle
+C8,Female,29,24,519,No,No,Young
+C9,Female,35,19,389,No,No,Middle
+C10,Male,25,40,580,No,No,Young
