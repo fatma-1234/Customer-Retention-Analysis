@@ -59,9 +59,6 @@ Customers with high monthly charges churn more
 Middle-aged customers show higher churn compared to young customers
 40% churn rate indicates a strong need for a retention strategy
 
-📌 Dashboard File:
-
-
 **🧠 Key Learnings & Skills Demonstrated**
 
 Python for Data Analysis (Pandas, Numpy, Matplotlib, Seaborn)
